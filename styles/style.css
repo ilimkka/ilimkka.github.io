@@ -129,6 +129,7 @@ footer{
 .worksart {
     text-align: center;
     width: 100%;
+    height: auto;
     float: left;
     display: flex;
     background-color: azure;
@@ -145,4 +146,11 @@ footer{
 }
 .divchik:hover {
     background-color: rgb(169, 180, 180);
+}
+.divimg {
+    margin-right: 10%;
+}
+.h3foto {
+    float: right;
+    padding-right: 5%;
 }
